@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Button} from 'components/common/styledCommon';
+import { Button} from 'common/styledCommon';
 
 export const Item = styled.li`
   font-size: 16px;

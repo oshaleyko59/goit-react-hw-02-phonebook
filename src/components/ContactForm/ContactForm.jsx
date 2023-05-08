@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { nanoid } from 'nanoid';
 import PropTypes from 'prop-types';
-import { Label, Input } from 'components/common/styledCommon';
+import { Label, Input } from 'common/styledCommon';
 import { SubmitBtn, Form } from './styled';
 
 const INITIAL_STATE = {

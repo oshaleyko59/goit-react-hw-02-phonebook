@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Button, Colors } from 'components/common/styledCommon';
+import { Button, Colors } from 'common/styledCommon';
 
 export const SubmitBtn = styled(Button)`
   margin: 16px 0;

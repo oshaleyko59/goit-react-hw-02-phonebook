@@ -4,7 +4,7 @@
 // * Логіка фільтрації повинна бути нечутливою до регістру
 
 import PropTypes from 'prop-types';
-import { Label } from 'components/common/styledCommon';
+import { Label } from 'common/styledCommon';
 import { SearchInput } from './styled';
 
 export const Filter = ({ value, onChange}) => {
